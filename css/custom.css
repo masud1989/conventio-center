@@ -6,3 +6,12 @@ i{
     color: rgb(152, 198, 240);
     padding-right: 5px;
 }
+.btn-higtlight{
+    background-color: blanchedalmond;
+    margin-bottom: auto;
+    text-decoration: none;
+    color: rgb(24, 102, 192);
+    padding: 5px;
+    border-radius: 5px;
+
+}
