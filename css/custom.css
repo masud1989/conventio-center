@@ -10,8 +10,9 @@ i{
     background-color: blanchedalmond;
     margin-bottom: auto;
     text-decoration: none;
-    color: rgb(24, 102, 192);
-    padding: 5px;
-    border-radius: 5px;
-
+    color: rgb(105, 153, 207);
+    font-weight: bold;
+    padding: 9px 35px;
+    border-radius: 20px;
+    margin-left: 30px;
 }
